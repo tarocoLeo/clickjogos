@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laboratorio\\ClickJogos\\ClickJogos.csproj": {}
+    "C:\\Projetos\\clickjogos\\clickjogos\\ClickJogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laboratorio\\ClickJogos\\ClickJogos.csproj": {
+    "C:\\Projetos\\clickjogos\\clickjogos\\ClickJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laboratorio\\ClickJogos\\ClickJogos.csproj",
+        "projectUniqueName": "C:\\Projetos\\clickjogos\\clickjogos\\ClickJogos.csproj",
         "projectName": "ClickJogos",
-        "projectPath": "C:\\Users\\Laboratorio\\ClickJogos\\ClickJogos.csproj",
+        "projectPath": "C:\\Projetos\\clickjogos\\clickjogos\\ClickJogos.csproj",
         "packagesPath": "C:\\Users\\Laboratorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laboratorio\\ClickJogos\\obj\\",
+        "outputPath": "C:\\Projetos\\clickjogos\\clickjogos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
